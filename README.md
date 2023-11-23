@@ -1,4 +1,6 @@
-# I am Felix and I am a Second Year Student at HKBU majoring in Business Computing and Data Analytics
+# I am Felix.
+I am currently a second year student at Hong Kong Baptist University where I am majoring in Business Computing and Data Analytics.
+I am hoping to work at the financial sector in the future where I can put my tech skills to use.
 
 
 
