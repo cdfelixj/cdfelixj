@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @cdfelixj
-- 👀 I’m interested in Powerlifting & Fitness
-- 🌱 I’m currently learning Data Science at the Hong Kong Baptist University
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me through instagram : cd.felix
+# I am Felix and I am a Second Year Student at HKBU majoring in Business Computing and Data Analytics
+
+
 
 <!---
 cdfelixj/cdfelixj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
