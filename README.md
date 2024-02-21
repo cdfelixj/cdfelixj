@@ -6,7 +6,7 @@ I am hoping to work at the financial sector in the future where I can put my tec
 🔭 I am currently working on making a personal website for myself to showcase my abilities and skills.<br>🤝 I’m looking for help with finding more hackathons!<br><br>🌱 I’m currently learning more frontend development tools<br><br>📫 How to reach me<br>cd.felixj@gmail.com | linkedin.com/in/jfelixpangestu/<br><br>⚡ Fun fact<br>I like R&B
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cd.felix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jfelixpangestu) 
 
 # 💻 Tech Stack:
