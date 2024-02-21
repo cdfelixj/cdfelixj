@@ -10,6 +10,8 @@ I am hoping to work at the financial sector in the future where I can put my tec
 
 It's best to contact me through [LinkedIn](https://www.linkedin.com/in/jfelixpangestu/). 
 
+But... cd.felixj@gmail.com works!
+
 ## 📦 Toolbox
 
 **Languages:** Java, Python, C, SQL, R, HTML, CSS, Javascript, TypeScript
