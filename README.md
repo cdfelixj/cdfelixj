@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello+There!+👋;+I'm+Felix+Pangestu!;" />
 </h1>
 
-<igm align="center" src="https://giphy.com/gifs/pixel-art-jeff-ckr4W2ppxPBeIF8dx4"/>
+<igm align="center" src="https://giphy.com/embed/ckr4W2ppxPBeIF8dx4"/>
 
 <h3 align="center">An aspiring software engineer currently studying at Hong Kong Baptist University.</h3>
 
