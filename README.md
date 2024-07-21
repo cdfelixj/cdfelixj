@@ -7,9 +7,8 @@
 </h1>
 
 
+![ezgif-1-15f9151861](https://github.com/user-attachments/assets/837d4b81-784d-4037-a7d3-57968f278002)
 
-
-<igm align="center" src="https://github.com/user-attachments/assets/bf67d780-1a1a-4f3b-87e5-31a9981731ac"/>
 
 <h3 align="center">An aspiring software engineer currently studying at Hong Kong Baptist University.</h3>
 
