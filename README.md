@@ -22,7 +22,7 @@
 
  💬 Ask me about **React, Svelte, Firebase!**
 
- ⚡ Fun fact **I learnt to ride a bike at 21 yr**
+ ⚡ Fun fact **I learnt to ride a bike at 21!!**
  
  🎈 Interest **Software Development, Powerlifting (1058lbs Total), Rugby (Varsity Team), R&B Music**
 
