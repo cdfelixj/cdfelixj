@@ -12,11 +12,13 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Svelte, .NET, AWS**
 
-💬 Ask me about **React, Svelte, Firebase!**
+ 💬 Ask me about **React, Svelte, Firebase!**
 
-⚡ Fun fact **I learnt to ride a bike at 21 yrs old**
+ ⚡ Fun fact **I learnt to ride a bike at 21 yr**
+ 
+ 🎈 Interest **Software Development, Powerlifting (1058lbs Total), Rugby (Varsity Team), R&B Music**
 
  </div>
  
@@ -46,24 +48,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/cdfelixj/cdfelixj/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-cdfelixj.vercel.app/?user=cdfelixj&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-cdfelixj.vercel.app/api?username=cdfelixj&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-cdfelixj.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
 <br/><br/>
 
