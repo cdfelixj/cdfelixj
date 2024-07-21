@@ -9,8 +9,7 @@
 
 
 
-<igm align="center" src="https://github.com/user-attachments/assets/bf67d780-1a1a-4f3b-87e5-31a9981731ac
-"/>
+<igm align="center" src="https://github.com/user-attachments/assets/bf67d780-1a1a-4f3b-87e5-31a9981731ac"/>
 
 <h3 align="center">An aspiring software engineer currently studying at Hong Kong Baptist University.</h3>
 
