@@ -6,9 +6,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello+There!+👋;+I'm+Felix+Pangestu!;" />
 </h1>
 
-
+<div align="center">
 ![ezgif-1-15f9151861](https://github.com/user-attachments/assets/837d4b81-784d-4037-a7d3-57968f278002)
-
+</div>
 
 <h3 align="center">An aspiring software engineer currently studying at Hong Kong Baptist University.</h3>
 
