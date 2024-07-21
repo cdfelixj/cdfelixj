@@ -1,5 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cdfelixj.cdfelixj" />
 
+<iframe src="https://giphy.com/embed/ckr4W2ppxPBeIF8dx4" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixel-art-jeff-ckr4W2ppxPBeIF8dx4"></a></p>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello+There!+👋;+I'm+Felix+Pangestu!;" />
 </h1>
