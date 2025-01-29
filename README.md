@@ -6,9 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello+There!+👋;+I'm+Felix+Pangestu!;" />
 </h1>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/12676a7a-e7c1-4698-a866-4983f324d575" alt="animated" />
-</p>
 
 <h3 align="center">An aspiring software engineer currently studying at Hong Kong Baptist University.</h3>
 
