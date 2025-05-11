@@ -8,14 +8,11 @@ An aspiring software engineer currently studying at Hong Kong Baptist University
 
  🔭 I’m currently working on **a machine learning project**
  
- 🌱 I’m currently learning **Svelte, .NET, AWS**
+ 🌱 I’m currently learning **Svelte, .NET, AWS services**
 
- 💬 Ask me about **React, Svelte, Firebase!**
+ 💬 Ask me about **Poker and backend dev stuff !**
 
  ⚡ Fun fact **I learnt to ride a bike at 21!!**
- 
- 🎈 Interest **Poker, Powerlifting (1058lbs Total), Rugby (Varsity Team), R&B Music**
-
 
 </div> <div align="center"> <a href="mailto:cd.felixj@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> </a> <a href="https://www.linkedin.com/in/jfelixpangestu/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> </a> <a href="https://cdfelixj.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> </a> </div>
 
