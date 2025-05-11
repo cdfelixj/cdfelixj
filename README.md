@@ -21,7 +21,7 @@
 
  ⚡ Fun fact **I learnt to ride a bike at 21!!**
  
- 🎈 Interest **Software Development, Powerlifting (1058lbs Total), Rugby (Varsity Team), R&B Music**
+ 🎈 Interest **Poker , Powerlifting (1058lbs Total), Rugby (Varsity Team), R&B Music**
 
  </div>
  
