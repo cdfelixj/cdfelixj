@@ -77,4 +77,4 @@ Feel free to reach out via [email](mailto:cd.felixj@gmail.com) or connect on [Li
 
 ---
 
-**Tip:** For further detail on any project, check out my [portfolio](https://cdfelixj.netlify.app/).
+**Tip:** Check out my OUTDATED haha portfolio [portfolio](https://cdfelixj.netlify.app/).
