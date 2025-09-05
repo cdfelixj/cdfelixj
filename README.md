@@ -1,77 +1,113 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cdfelixj.cdfelixj" /> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello+There!+👋;+I'm+Felix+Pangestu!;" /> </h1> <h3 align="center">An aspiring software engineer currently studying at Hong Kong Baptist University.</h3>
+# Felix Pangestu
+### Software Engineer | Hong Kong Baptist University
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=2500&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;AWS+Student+Ambassador" />
+</div>
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cdfelixj.cdfelixj" alt="Profile Views" />
+</div>
+
+---
+
+## About Me
+
+Aspiring software engineer at **Hong Kong Baptist University** with expertise in full-stack development, machine learning, and cloud technologies.
+
+- Currently working on machine learning projects and full-stack applications
+- Learning Svelte, .NET, and AWS Services
+- Interested in backend development, poker strategy, and powerlifting
+
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cd.felixj@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jfelixpangestu/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://cdfelixj.netlify.app/)
+  
+</div>
+
+---
+
+## Featured Projects
+
+### **PowerLift**
+**MERN Stack, Stripe API**  
+E-commerce platform for powerlifting gear with secure payments and admin dashboard.
+
+### **MealMatch**
+**React.js, Firebase, Leaflet.js**  
+Food donation platform using Hungarian Algorithm for optimal donor-beneficiary matching.
+
+### **Movie Review Sentiment Analysis**
+**Python, PyTorch, NLTK**  
+NLP project comparing deep learning models with 81% accuracy using Word2Vec embeddings.
+
+### **Budgeting App**
+**Next.js, Firebase, Chart.js**  
+Personal finance tracker with authentication and interactive data visualization.
+
+---
+
+## Achievements
+
+- **Founder, Read the Vision** - Computer vision startup (HKD 10,000 funding, HKSTP programme)
+- **AWS Student Ambassador** - Community outreach and event support
+- **HK Techathon+ 2025** - 3rd Runner-up & Merit Award
+- **Code to Give 2024** - Top 8 Finalist (Morgan Stanley Singapore)
+
+---
+
+## Technical Skills
+
 <div align="center">
 
+**Languages**  
+<img src="https://skillicons.dev/icons?i=python,java,cs,c,r,js,ts" />
 
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,html,css,bootstrap,tailwind" />
 
-An aspiring software engineer currently studying at Hong Kong Baptist University.
+**Backend & Database**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,dotnet,mongodb,mysql,firebase" />
 
+**Cloud & Tools**  
+<img src="https://skillicons.dev/icons?i=aws,azure,git,github,vscode,visualstudio" />
 
- 🔭 I’m currently working on **a machine learning project**
- 
- 🌱 I’m currently learning **Svelte, .NET, AWS services**
-
- 💬 Ask me about **Poker and backend dev stuff !**
-
- ⚡ Fun fact **I learnt to ride a bike at 21!!**
-
-</div> <div align="center"> <a href="mailto:cd.felixj@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> </a> <a href="https://www.linkedin.com/in/jfelixpangestu/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> </a> <a href="https://cdfelixj.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> </a> </div>
-
-## ⚡ Featured Projects
-
-Below are some of my most impactful projects, spanning software engineering, data science, and product development. These projects highlight my ability to deliver real-world solutions using modern technologies:
-
-### **PowerLift**  
-*Full-stack E-Commerce Platform | MERN Stack, Stripe*  
-Developed a comprehensive e-commerce platform tailored for powerlifting gear, featuring secure payment integration with Stripe and a robust admin dashboard for product/order management.
-
-### **MealMatch**  
-*Food Donation Web Platform | ReactJS, Firebase, Leaflet.js*  
-Engineered a real-time dashboard to connect food bank donors with beneficiaries. Implemented matching logic using the Hungarian Algorithm for optimal resource allocation, and leveraged Firestore for live data updates.
-
-### **Movie Review Sentiment Analysis**  
-*Deep Learning NLP Project | Python, PyTorch, NLTK, Gensim*  
-Benchmarked RNN, LSTM, GRU, CNN, and attention-based models for sentiment classification, achieving up to 81% test accuracy. Integrated Word2Vec embeddings for enhanced word representation.
-
-### **Budgeting App**  
-*Personal Finance Tracker | Next.js, Firebase, Chart.js*  
-Built a full-stack budgeting app supporting user authentication, secure data storage, and dynamic data visualization with interactive charts.
-
-### **Powerlifting Data Analysis**  
-*Exploratory Data Analysis | Python, Pandas, Matplotlib, Seaborn*  
-Conducted in-depth analysis of powerlifting records, visualizing key metrics like Wilks score and lift-to-bodyweight ratios. Cleaned and processed a large dataset for comprehensive insights.
+</div>
 
 ---
 
-## 🏆 Notable Achievements
+## GitHub Statistics
 
-- **Founder, Read the Vision:** Launched a startup developing computer vision tools to transcribe hand signals, enhancing communication for the deaf/mute community. Secured HKD 10,000 in funding and joined the HKSTP Ideation Programme.
-- **AWS Student Ambassador:** Organized student outreach and supported the AWS Summit 2025 in Hong Kong.
-- **Award Highlights:** 3rd Runner-up & Merit Awardee at HK Techathon+ 2025, Top 8 at Code to Give by Morgan Stanley SG 2024, 2nd Runner-up at USFHK Rugby 2024.
-
----
-
-## ⚒️ Languages, Frameworks & Tools
-
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,c,cs,java,c,r" /><br> <img src="https://skillicons.dev/icons?i=react,bootstrap,svelte,nextjs,html,css,js,ts,nodejs,express,flask,tailwind,dotnet" /> <img src="https://skillicons.dev/icons?i=aws,azure,firebase,mongodb,mysql" /><br> <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,ps,tailwind,r" /> </div>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cdfelixj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cdfelixj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-## 📈 Interests
+## Interests
 
-- Powerlifting (1058lbs Total)
-- Rugby (Varsity Team)
-- Poker
-- R&B Music
-- Science Fiction (Three Body Problem)
-
----
-
-## 💡 Let's Connect!
-
-I'm always open to discussing new opportunities, collaborations, or just chatting about tech, sports, or music.  
-Feel free to reach out via [email](mailto:cd.felixj@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/jfelixpangestu/).
+**Powerlifting** - 1058lbs total  
+**Rugby** - University varsity team  
+**Poker** - Strategy and probability  
+**Music** - R&B enthusiast  
+**Reading** - Science fiction
 
 ---
 
-**Tip:** Check out my OUTDATED haha portfolio [portfolio](https://cdfelixj.netlify.app/).
+## Contact
+
+Open to discussing opportunities, collaborations, and technology.
+
+**Reach out:**
+- Email: [cd.felixj@gmail.com](mailto:cd.felixj@gmail.com)
+- LinkedIn: [linkedin.com/in/jfelixpangestu](https://www.linkedin.com/in/jfelixpangestu/)
+- Portfolio: [cdfelixj.netlify.app](https://cdfelixj.netlify.app/)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=cdfelixj&color=blueviolet&style=flat-square&label=Profile+Views" />
+</div>
