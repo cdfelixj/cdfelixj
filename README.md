@@ -37,17 +37,7 @@ E-commerce platform for powerlifting gear with secure payments and admin dashboa
 
 ### **MealMatch**
 **React.js, Firebase, Leaflet.js**  
-Food donation platform using Hungarian Algorithm for optimal donor-beneficiary matching.
-
-### **Movie Review Sentiment Analysis**
-**Python, PyTorch, NLTK**  
-NLP project comparing deep learning models with 81% accuracy using Word2Vec embeddings.
-
-### **Budgeting App**
-**Next.js, Firebase, Chart.js**  
-Personal finance tracker with authentication and interactive data visualization.
-
----
+Food donation platform using Hungarian Algorithm for optimal donor-beneficiary matching.--
 
 ## Achievements
 
