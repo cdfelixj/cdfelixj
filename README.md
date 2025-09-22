@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=2500&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;AWS+Student+Ambassador" />
 </div>
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=cdfelixj.cdfelixj" alt="Profile Views" />
-</div>
-
 ---
 
 ## About Me
@@ -29,51 +25,12 @@ Aspiring software engineer at **Hong Kong Baptist University** with expertise in
 
 ---
 
-## Featured Projects
-
-### **PowerLift**
-**MERN Stack, Stripe API**  
-E-commerce platform for powerlifting gear with secure payments and admin dashboard.
-
-### **MealMatch**
-**React.js, Firebase, Leaflet.js**  
-Food donation platform using Hungarian Algorithm for optimal donor-beneficiary matching.--
-
 ## Achievements
 
 - **Founder, Read the Vision** - Computer vision startup (HKD 10,000 funding, HKSTP programme)
 - **AWS Student Ambassador** - Community outreach and event support
 - **HK Techathon+ 2025** - 3rd Runner-up & Merit Award
 - **Code to Give 2024** - Top 8 Finalist (Morgan Stanley Singapore)
-
----
-
-## Technical Skills
-
-<div align="center">
-
-**Languages**  
-<img src="https://skillicons.dev/icons?i=python,java,cs,c,r,js,ts" />
-
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,html,css,bootstrap,tailwind" />
-
-**Backend & Database**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,dotnet,mongodb,mysql,firebase" />
-
-**Cloud & Tools**  
-<img src="https://skillicons.dev/icons?i=aws,azure,git,github,vscode,visualstudio" />
-
-</div>
-
----
-
-## GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cdfelixj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cdfelixj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ---
 
