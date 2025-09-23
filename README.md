@@ -23,27 +23,6 @@ Aspiring software engineer at **Hong Kong Baptist University** with expertise in
   
 </div>
 
----
-
-## Achievements
-
-- **Founder, Read the Vision** - Computer vision startup (HKD 10,000 funding, HKSTP programme)
-- **AWS Student Ambassador** - Community outreach and event support
-- **HK Techathon+ 2025** - 3rd Runner-up & Merit Award
-- **Code to Give 2024** - Top 8 Finalist (Morgan Stanley Singapore)
-
----
-
-## Interests
-
-**Powerlifting** - 1058lbs total  
-**Rugby** - University varsity team  
-**Poker** - Strategy and probability  
-**Music** - R&B enthusiast  
-**Reading** - Science fiction
-
----
-
 ## Contact
 
 Open to discussing opportunities, collaborations, and technology.
